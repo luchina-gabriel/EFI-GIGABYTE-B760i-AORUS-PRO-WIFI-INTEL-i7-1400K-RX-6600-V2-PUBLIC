@@ -1,6 +1,6 @@
 # Hackintosh, Gigabyte B760I AORUS PRO, Intel Core i7 14700K, AMD Radeon RX 6600 V2
 
-!!!OVERVIEW!!!
+![Overview](https://github.com/user-attachments/assets/3c41f387-fde6-4faf-980e-11c32ccb6bda)
 
 # Basic Information
 
